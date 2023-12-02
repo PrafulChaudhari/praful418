@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrafulChaudhari
-- 👀 I’m interested in Web Development, Mobile App development, Blockchain and Machine Learning
+- 👀 I’m interested in Web Development, Mobile App development and Machine Learning
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 You can contact me on email - prafulchaudhari703@gmail.com
